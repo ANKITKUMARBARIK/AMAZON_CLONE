@@ -10,5 +10,3 @@ ORIGINAL SITE "AMAZON INDIA" - https://www.amazon.in/
 LANGUAGES USED :-
 * HTML
 * CSS
-* JAVASCRIPT
-
